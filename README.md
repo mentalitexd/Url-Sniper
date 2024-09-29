@@ -1,2 +1,1 @@
-# Url-Sniper
-evet işte .d
+basit bu arada npm i atıcan bitti gerisi sende
